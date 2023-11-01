@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplikasi Github User</string>
+    <string name="searchbar_hint">Mau cari siapa</string>
+    <string name="nama_user">Nama User</string>
+    <string name="followers">%1$d Followers</string>
+    <string name="following">%1$d Following</string>
+    <string name="photo_profile">Foto Profile</string>
+    <string name="login_user">username</string>
+    <string name="following_zero">Get Follower </string>
+    <string name="followers_tabs">Followers</string>
+    <string name="following_tabs">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_followers">Get Followers $s</string>
+    <string name="fragment_following">Get Following $s</string>
+    <string name="have_no_followers">Tidak punya pengikut</string>
+    <string name="have_no_following">Tidak mengikuti siapapun</string>
+    <string name="menu1">Menu Favorite User</string>
+    <string name="menu2">Setting</string>
+    <string name="silakanAturThema">Silakan atur thema</string>
+    <string name="daftar_favorit">favorit user\n</string>
+    <string name="title_activity_favorit">Favorit User</string>
+    <string name="back">Back</string>
+    <string name="list_kosong">Daftar User Favorit kosong</string>
+    <string name="list_kosong_pencarian">Pencarian username tidak ditemukan</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>

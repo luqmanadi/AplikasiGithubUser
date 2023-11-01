@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplikasiGithubUser" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor" tools:targetApi="1" >@color/onSurface</item>
+    </style>
+    <style name="Theme.App.SplashScreenAPKGithubUser" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_github_putih</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.AplikasiGithubUser</item>
+    </style>
+</resources>
